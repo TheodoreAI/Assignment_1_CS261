@@ -1,4 +1,3 @@
-# mateoej12-gmail.com
 Assignment_1 for CS_261
 # Description: This is the hello_gradescope assignment 1 designed to make sure I can successfully submit files to gradescope.
 
